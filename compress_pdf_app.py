@@ -19,8 +19,8 @@ def compress_pdf(input_file, output_path):
 
 st.set_page_config(page_title="PDF Compressor", layout="centered")
 
-st.title("📄 PDF Compressor")
-st.write("Upload PDF untuk diperkecil ukurannya")
+st.title("📄 PDF Compressor mas ferdian")
+st.write("Upload PDF untuk diperkecil ukurannya, ukuran PDF lo bukan yang lain")
 
 uploaded_file = st.file_uploader("Pilih PDF", type=["pdf"])
 
